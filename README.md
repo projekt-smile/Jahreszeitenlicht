@@ -1,4 +1,4 @@
-# Jahreszeitenlicht
+# Ein Licht zu jeder Jahreszeit
 Dokumentation zum smile-Workshop (Arduino, RGB LEDs, Sensoren). Konzipiert für SchülerInnen ab der Klassenstufe 5.
 Workshop entwickelt vom Deutschen Forschungszentrum für Künstliche Intelligenz (DFKI) Bremen
 
